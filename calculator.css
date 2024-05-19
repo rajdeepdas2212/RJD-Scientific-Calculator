@@ -60,6 +60,7 @@ input.display{
 }
 input::placeholder{
     color: #333;
+    font-weight: bold;
 }
 button.numbers{
     color: #ffffff;
