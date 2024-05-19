@@ -58,7 +58,7 @@ input.display{
     color: #ffffff;
     background: transparent; 
 }
-::placeholder{
+input::placeholder{
     color: #333;
 }
 button.numbers{
